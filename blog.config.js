@@ -72,4 +72,4 @@ const BLOG = {
 }
 
 module.exports = BLOG
-API_BASE_URL: process.env.API_BASE_URL || 'https://<night-browser-7bb>.notion.site/api/v3', // API默认请求地址 ,可配置成自己的 https://<night-browser-7bb>.notion.site/api/v3,https://night-browser-7bb.notion.site/?v=131863fcd04c812fbbf1000c1fcea919&source=copy_link
+
